@@ -1,0 +1,9 @@
+[
+{"operand":"-", "num1": 4, "num2": 2},
+{"operand":"+", "num1": 2, "num2": 3},
+{"operand":"*", "num1": 3, "num2": 4},
+{"operand":"/", "num1": 9, "num2": 3},
+{"operand":"+", "num1": 1, "num2": 2},
+{"operand":"-", "num1": 6, "num2": 2},
+{"operand":"*", "num1": 3, "num2": 9}
+]
